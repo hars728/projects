@@ -50,7 +50,7 @@ body{
  .search button img{
     width: 16px;
  }
- .wether-icon{
+ .weather-icon{
     width: 170px;
     margin-top: 30px;
  }
@@ -86,5 +86,6 @@ body{
  }
  .humidity , .wind{
     font-size: 29px;
-    margin-top: -6px;
+    margin-top: 6px;
+    
  }
