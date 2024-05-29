@@ -1,5 +1,6 @@
 # BASIC PROJECTS
 
+Basiclly in this repo we have to know the basic concept of core javascript
 
 ## Image search site using core javascript concept
 
