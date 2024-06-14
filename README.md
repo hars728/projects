@@ -3,7 +3,9 @@
 Basiclly in this repo we have to know the basic concept of core javascript
 
 ## Image search site using core javascript concept
-  ### 05.
+
+# Project 05
+  ## Image Search
 ### hear is the code 
 
 ```js
