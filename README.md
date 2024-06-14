@@ -66,7 +66,7 @@ showMoreButtonEl.addEventListener("click", () => {
 
 ```
 
-
+   # Project 06
    ## Dictionary app
 
    ### Using basic js.
