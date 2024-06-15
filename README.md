@@ -133,3 +133,15 @@ showMoreButtonEl.addEventListener("click", () => {
 
 
    ```
+
+   # Project 08
+   ## MINI CALENDAR
+
+   ### Using basic js.
+
+   ```js
+
+
+
+    
+   ```
