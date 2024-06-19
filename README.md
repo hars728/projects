@@ -264,7 +264,7 @@ function resetTimer() {
   elapsedTime = 0;
   timerEl.textContent = "00:00:00";
 
-  startButtonEl.disabled = false;
+  startButtonEl.disabled = false; 
   stopButtonEl.disabled = true;
 }
 
