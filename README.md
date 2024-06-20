@@ -306,6 +306,7 @@ function computeTemp(event) {
       break;
     default:
       break;
+      
   }
 }
 
