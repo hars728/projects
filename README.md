@@ -313,3 +313,15 @@ function computeTemp(event) {
 
    
    ```
+
+
+  # Project 12
+## age-calculator
+  
+
+   ### Using basic js.
+
+   ```js
+
+   
+   ```
