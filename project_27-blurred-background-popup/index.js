@@ -15,3 +15,4 @@ closeIconEl.addEventListener("click", () => {
   containerEl.classList.remove("active");
   popupContainerEl.classList.add("active");
 });
+
