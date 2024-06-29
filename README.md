@@ -368,11 +368,11 @@ function getAge(birthdayValue) {
    ```js
     const starsEl = document.querySelectorAll(".fa-star");
     const emojisEl = document.querySelectorAll(".far");
-const colorsArray = ["red", "orange", "lightblue", "lightgreen", "green"];
+   const colorsArray = ["red", "orange", "lightblue", "lightgreen", "green"];
 
-updateRating(0);
+   updateRating(0);
 
-starsEl.forEach((starEl, index) => {
+  starsEl.forEach((starEl, index) => {
   starEl.addEventListener("click", () => {
     updateRating(index);
   });
