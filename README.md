@@ -394,3 +394,11 @@ function updateRating(index) {
 }
 
    ```
+ # Project 14
+ ## dice roll simulator
+  
+
+ ### Using basic js.
+
+   ```js   
+   ```
