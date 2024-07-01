@@ -401,4 +401,8 @@ function updateRating(index) {
  ### Using basic js.
 
    ```js   
+
+
+
+   
    ```
