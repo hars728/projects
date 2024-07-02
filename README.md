@@ -436,6 +436,7 @@ function updateRating(index) {
  ### Using basic js.
 
    ```js   
+   
     const btnEl = document.getElementById("btn");
 const jokeEl = document.getElementById("joke");
 
@@ -472,7 +473,4 @@ async function getJoke() {
 
 btnEl.addEventListener("click", getJoke);
 
-
-
-
-   ```
+```
