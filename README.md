@@ -422,9 +422,6 @@ function updateRating(index) {
   </body>
 </html>
 
-    
-
-
 
    ```
 
