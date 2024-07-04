@@ -437,6 +437,7 @@ function updateRating(index) {
 
    ```js   
    
+   
     const btnEl = document.getElementById("btn");
 const jokeEl = document.getElementById("joke");
 
