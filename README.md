@@ -384,6 +384,7 @@ function updateRating(index) {
       starEl.classList.add("active");
     } else {
       starEl.classList.remove("active");
+      
     }
   });
 
