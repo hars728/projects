@@ -472,3 +472,15 @@ async function getJoke() {
 btnEl.addEventListener("click", getJoke);
 
 ```
+
+# Project 16
+ ## random emoji
+  
+
+ ### Using basic js.
+
+   ```js   
+
+
+   
+  ```
