@@ -480,6 +480,7 @@ btnEl.addEventListener("click", getJoke);
  ### Using basic js.
 
    ```js   
+   
   const btnEl = document.getElementById("btn");
 const emojiNameEl = document.getElementById("emoji-name");
 
@@ -508,7 +509,4 @@ btnEl.addEventListener("click", () => {
     emojiNameEl.innerText = emoji[randomNum].emojiCode;
 });
 
-
-
-   
   ```
