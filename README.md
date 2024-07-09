@@ -510,3 +510,14 @@ btnEl.addEventListener("click", () => {
 });
 
   ```
+
+  # Project 18
+ ## mouse event
+  
+
+ ### Using basic js.
+
+   ```js   
+
+   
+   ```
