@@ -532,6 +532,6 @@ btnEl.addEventListener("click", () => {
         <h4>Mouse Y Prosition(px)</h4>
        </div>
    ` ;
-});
+    });
 
    ```
