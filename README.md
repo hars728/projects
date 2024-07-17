@@ -570,3 +570,12 @@ inputEl.addEventListener("input", updateResults);
 
 
    ```
+
+# Project 20
+ ## image slider
+  
+
+ ### Using basic js.
+
+   ```js  
+   ```
