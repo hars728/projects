@@ -617,5 +617,4 @@ function updateImg() {
   }, 3000);
 }
 
-
    ```
